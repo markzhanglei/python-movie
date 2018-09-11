@@ -7,5 +7,4 @@
 4、打开浏览器输入127.0.0.1
 # 部分截图
 ![](http://images.hfuusec.cn/17-12-24/7428668.jpg)   
-![](http://images.hfuusec.cn/17-12-24/77487883.jpg)   
 ![](http://images.hfuusec.cn/17-12-24/40746656.jpg)   
